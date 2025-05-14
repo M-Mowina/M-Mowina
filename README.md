@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mowina</h1>
 <h3 align="center">A passionate AI Developer & Cybersecurity specialist</h3>
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **AI in Cybersecurity**
 
 - 📝 I regularly write articles on [linkedin.com/in/mohamed-mowina-ai](linkedin.com/in/mohamed-mowina-ai)
 
