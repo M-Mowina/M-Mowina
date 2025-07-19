@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mowina</h1>
-<h3 align="center">A passionate AI Developer & Cybersecurity specialist</h3>
+<h3 align="center">A passionate AI Developer</h3>
 
 - 🌱 I’m currently learning **AI in Cybersecurity**
 
