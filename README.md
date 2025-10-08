@@ -36,7 +36,6 @@ Currently, I'm working on diverse AI solutions, focusing on **Automation, Genera
 
 ## 📊 GitHub Stats
 
-#[![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Mowina&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Mowina&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
