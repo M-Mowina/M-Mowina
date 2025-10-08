@@ -72,7 +72,7 @@ Trained One-Class SVM and Random Forest classifiers on NetFlow data, achieving 9
 ## 📈 Recent Activity
 
 <!-- GitHub Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedmowina&theme=github-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Mowina&theme=github-dark)
 
 ---
 
