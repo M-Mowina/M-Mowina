@@ -1,19 +1,84 @@
-<h1 align="center">Hi 👋, I'm Mohamed Mowina</h1>
-<h3 align="center">A passionate AI Developer</h3>
+# Mohamed Mowina
+### AI Solutions Engineer | Building Intelligent Systems for Tomorrow
 
-- 🌱 I’m currently learning **AI in Cybersecurity**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-mowina)
+[![Gmail](https://img.shields.io/badge/Email-mohammedmowina@gmail.com-red?style=flat-square&logo=gmail)](mailto:mohammedmowina@gmail.com)
 
-- 📝 I regularly write articles on [linkedin.com/in/mohamed-mowina-ai](linkedin.com/in/mohamed-mowina-ai)
+---
 
-- 📫 How to reach me **Mohammed-Mowina@outlook.com**
+Hello! I'm Mohamed, an AI Solutions Engineer passionate about creating innovative, intelligent systems. With a B.Sc. in Computer Science and Artificial Intelligence from MTI University and hands-on experience at companies like Areeb Technology and Beetleware, I specialize in bridging the gap between cutting-edge AI research and practical, real-world applications.
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1TAz04O4GcODOEsPPf7wg_UtBXKom_QjyknMXBMzcriM/edit?usp=sharing](https://docs.google.com/document/d/1TAz04O4GcODOEsPPf7wg_UtBXKom_QjyknMXBMzcriM/edit?usp=sharing)](https://docs.google.com/document/d/15bpJxqP1wIL8CRMI7Y613xCJ-93QM-4V/edit?usp=sharing&ouid=111562758513384367561&rtpof=true&sd=true)
+Currently, I'm working on diverse AI solutions, focusing on **Automation, Generative AI, and AI-powered DevOps tools**. My expertise spans from developing sophisticated threat detection models for cybersecurity to building conversational AI agents for human-like interactions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-mowina-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-mowina-ai" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamed_mowina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_mowina" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWo7cBYeUesXieYg2fmHmid8Lx9crujCejYA&s" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🚀 What I Do
+
+- **AI Solutions Engineering**: Designing and implementing end-to-end AI systems.
+- **Generative AI & LLMs**: Leveraging models like OpenAI GPT, Anthropic Claude, and Hugging Face transformers for creative and functional applications.
+- **AI in Cybersecurity**: Developing ML models for threat detection and log analysis in SOC environments.
+- **MLOps & DevOps**: Integrating AI models into robust, scalable pipelines with tools like Azure, LangGraph, and FastAPI.
+- **Teaching & Mentoring**: Sharing knowledge by instructing Python and AI concepts.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:** Python, SQL, PyTorch, Scikit-learn, LangChain, LangGraph, CrewAI, FastAPI, Flask
+
+**AI/ML Libraries & Tools:** Hugging Face, YOLO, OpenAI, Anthropic, Supabase, Pinecone, ChromaDB
+
+**Cloud & DevOps:** Azure, n8n
+
+**Visualization & UI:** Plotly, Dash, Streamlit, Chainlit
+
+---
+
+## 📊 GitHub Stats
+
+[![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmowina&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmowina&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌟 Featured Projects
+
+**[DevOps Insight](https://github.com/mohamedmowina/devops-insight)**  
+*AI-powered code analysis system for automated Pull Request Analysis.*
+Built with LangGraph and Supabase vector database. Features multi-platform repository cloning, automated security and quality checks, and AI-driven code review capabilities using a fine-tuned Qwen-3-Coder model.
+
+**[TalentTalk](https://github.com/mohamedmowina/talenttalk)**  
+*Voice-based interview system with LLM agents.*
+Integrates OpenAI’s Whisper (STT), AssemblyAI, ElevenLabs (TTS), and LangGraph. Features real-time interviews and RAG-based resume evaluation and question generation. Includes live and video demos.
+
+**[LinkedIn Booster](https://github.com/mohamedmowina/linkedin-booster)**  
+*Automated LinkedIn content creation workflow.*
+Built with LangGraph, OpenAI GPT-4o, and DALL-E 3. Features automated post generation, image creation, and email integration via a Chainlit GUI.
+
+**[NetFlow IDS](https://github.com/mohamedmowina/netflow-ids)**  
+*Network intrusion detection system.*
+Trained One-Class SVM and Random Forest classifiers on NetFlow data, achieving 99% classification accuracy with reduced false positives through a 2-stage detection process.
+
+---
+
+## 🏆 Certifications
+
+- IBM Data Science Professional Certificate V3
+- Associate AI Engineer (DataCamp)
+- AI Certification (ITI)
+- DotPy Data Science
+
+---
+
+## 📈 Recent Activity
+
+<!-- GitHub Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedmowina&theme=github-dark)
+
+---
+
+## 💬 Let's Connect!
+
+I'm always excited to discuss AI, collaborate on interesting projects, or share knowledge. Feel free to reach out via email or connect on LinkedIn!
+
+> "The future is AI, and I'm here to help build it, one project at a time."
