@@ -42,11 +42,11 @@ Currently, I'm working on diverse AI solutions, focusing on **Automation, Genera
 
 ## 🌟 Featured Projects
 
-**[DevOps Insight]([https://github.com/mohamedmowina/devops-insight](https://github.com/M-Mowina/DevOps-Insight---AI-powered-code-analysis-system))**  
+**[DevOps Insight](https://github.com/M-Mowina/DevOps-Insight---AI-powered-code-analysis-system)**  
 *AI-powered code analysis system for automated Pull Request Analysis.*
 Built with LangGraph and Supabase vector database. Features multi-platform repository cloning, automated security and quality checks, and AI-driven code review capabilities using a fine-tuned Qwen-3-Coder model.
 
-**[LinkedIn Booster]([https://github.com/mohamedmowina/linkedin-booster](https://github.com/M-Mowina/LinkedIn-Booster))**  
+**[LinkedIn Booster](https://github.com/M-Mowina/LinkedIn-Booster)**  
 *Automated LinkedIn content creation workflow.*
 Built with LangGraph, OpenAI GPT-4o, and DALL-E 3. Features automated post generation, image creation, and email integration via a Chainlit GUI.
 
