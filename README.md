@@ -42,19 +42,19 @@ Currently, I'm working on diverse AI solutions, focusing on **Automation, Genera
 
 ## 🌟 Featured Projects
 
-**[DevOps Insight](https://github.com/mohamedmowina/devops-insight)**  
+**[DevOps Insight]([https://github.com/mohamedmowina/devops-insight](https://github.com/M-Mowina/DevOps-Insight---AI-powered-code-analysis-system))**  
 *AI-powered code analysis system for automated Pull Request Analysis.*
 Built with LangGraph and Supabase vector database. Features multi-platform repository cloning, automated security and quality checks, and AI-driven code review capabilities using a fine-tuned Qwen-3-Coder model.
+
+**[LinkedIn Booster]([https://github.com/mohamedmowina/linkedin-booster](https://github.com/M-Mowina/LinkedIn-Booster))**  
+*Automated LinkedIn content creation workflow.*
+Built with LangGraph, OpenAI GPT-4o, and DALL-E 3. Features automated post generation, image creation, and email integration via a Chainlit GUI.
 
 **[TalentTalk](https://github.com/mohamedmowina/talenttalk)**  
 *Voice-based interview system with LLM agents.*
 Integrates OpenAI’s Whisper (STT), AssemblyAI, ElevenLabs (TTS), and LangGraph. Features real-time interviews and RAG-based resume evaluation and question generation. Includes live and video demos.
 
-**[LinkedIn Booster](https://github.com/mohamedmowina/linkedin-booster)**  
-*Automated LinkedIn content creation workflow.*
-Built with LangGraph, OpenAI GPT-4o, and DALL-E 3. Features automated post generation, image creation, and email integration via a Chainlit GUI.
-
-**[NetFlow IDS](https://github.com/mohamedmowina/netflow-ids)**  
+**[NetFlow IDS]([https://github.com/mohamedmowina/netflow-ids](https://github.com/M-Mowina/Netflow-attack-detector-classifier))**  
 *Network intrusion detection system.*
 Trained One-Class SVM and Random Forest classifiers on NetFlow data, achieving 99% classification accuracy with reduced false positives through a 2-stage detection process.
 
@@ -66,13 +66,6 @@ Trained One-Class SVM and Random Forest classifiers on NetFlow data, achieving 9
 - Associate AI Engineer (DataCamp)
 - AI Certification (ITI)
 - DotPy Data Science
-
----
-
-## 📈 Recent Activity
-
-<!-- GitHub Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Mowina&theme=github-dark)
 
 ---
 
