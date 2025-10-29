@@ -50,11 +50,11 @@ Built with LangGraph and Supabase vector database. Features multi-platform repos
 *Automated LinkedIn content creation workflow.*
 Built with LangGraph, OpenAI GPT-4o, and DALL-E 3. Features automated post generation, image creation, and email integration via a Chainlit GUI.
 
-**[TalentTalk](https://github.com/mohamedmowina/talenttalk)**  
+**[TalentTalk](https://github.com/M-Mowina/TalentTalk---AI-powered-interview-system)**  
 *Voice-based interview system with LLM agents.*
 Integrates OpenAI’s Whisper (STT), AssemblyAI, ElevenLabs (TTS), and LangGraph. Features real-time interviews and RAG-based resume evaluation and question generation. Includes live and video demos.
 
-**[NetFlow IDS]([https://github.com/mohamedmowina/netflow-ids](https://github.com/M-Mowina/Netflow-attack-detector-classifier))**  
+**[NetFlow IDS](https://github.com/M-Mowina/Netflow-attack-detector-classifier)**  
 *Network intrusion detection system.*
 Trained One-Class SVM and Random Forest classifiers on NetFlow data, achieving 99% classification accuracy with reduced false positives through a 2-stage detection process.
 
